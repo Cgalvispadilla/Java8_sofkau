@@ -1,0 +1,19 @@
+com/lambda/app/LambdaApp.java
+ com.lambda.app.LambdaApp
+com/lambda/app/DefaultMethod.java
+ com.lambda.app.DefaultMethod
+com/lambda/app/Persona.java
+ com.lambda.app.Persona
+com/lambda/app/MethotStreams.java
+ com.lambda.app.MethotStreams
+com/lambda/app/MethodsList.java
+ com.lambda.app.MethodsList
+com/lambda/app/MethotOptional.java
+ com.lambda.app.MethotOptional
+com/lambda/app/MapOrDict.java
+ com.lambda.app.MapOrDict
+com/lambda/app/AnotacionesDeRepeticion.java
+ com.lambda.app.AnotacionesDeRepeticion
+ com.lambda.app.AnotacionesDeRepeticion$VideoJuegosVariados
+ com.lambda.app.AnotacionesDeRepeticion$Videojuego
+ com.lambda.app.AnotacionesDeRepeticion$Videojuegos
